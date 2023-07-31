@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[img]https://imghost.pics/PT2ZWU[/img]
+<p align="center">
+  <img src="https://imghost.pics/PT2ZWU">
+</p>
