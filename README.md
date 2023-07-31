@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img src="https://imghost.pics/PT2ZWU">
 </p>
 
-[![GitHub Release]([https://img.shields.io/github/v/release/r6dev/jetson.svg)](https://github.com/r6dev/jetson/releases/latest](https://imghost.pics/PT2ZWU)https://imghost.pics/PT2ZWU)
+[![GitHub Release]([https://imghost.pics/PT2ZWU])
